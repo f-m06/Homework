@@ -1,0 +1,15 @@
+C:\Users\17Miah.F\Source\Repos\f-m06\Homework\07 Credit Card Validator\bin\Debug\net6.0\07 Credit Card Validator.exe
+C:\Users\17Miah.F\Source\Repos\f-m06\Homework\07 Credit Card Validator\bin\Debug\net6.0\07 Credit Card Validator.deps.json
+C:\Users\17Miah.F\Source\Repos\f-m06\Homework\07 Credit Card Validator\bin\Debug\net6.0\07 Credit Card Validator.runtimeconfig.json
+C:\Users\17Miah.F\Source\Repos\f-m06\Homework\07 Credit Card Validator\bin\Debug\net6.0\07 Credit Card Validator.dll
+C:\Users\17Miah.F\Source\Repos\f-m06\Homework\07 Credit Card Validator\bin\Debug\net6.0\07 Credit Card Validator.pdb
+C:\Users\17Miah.F\Source\Repos\f-m06\Homework\07 Credit Card Validator\obj\Debug\net6.0\07 Credit Card Validator.csproj.AssemblyReference.cache
+C:\Users\17Miah.F\Source\Repos\f-m06\Homework\07 Credit Card Validator\obj\Debug\net6.0\07 Credit Card Validator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17Miah.F\Source\Repos\f-m06\Homework\07 Credit Card Validator\obj\Debug\net6.0\07 Credit Card Validator.AssemblyInfoInputs.cache
+C:\Users\17Miah.F\Source\Repos\f-m06\Homework\07 Credit Card Validator\obj\Debug\net6.0\07 Credit Card Validator.AssemblyInfo.cs
+C:\Users\17Miah.F\Source\Repos\f-m06\Homework\07 Credit Card Validator\obj\Debug\net6.0\07 Credit Card Validator.csproj.CoreCompileInputs.cache
+C:\Users\17Miah.F\Source\Repos\f-m06\Homework\07 Credit Card Validator\obj\Debug\net6.0\07 Credit Card Validator.dll
+C:\Users\17Miah.F\Source\Repos\f-m06\Homework\07 Credit Card Validator\obj\Debug\net6.0\refint\07 Credit Card Validator.dll
+C:\Users\17Miah.F\Source\Repos\f-m06\Homework\07 Credit Card Validator\obj\Debug\net6.0\07 Credit Card Validator.pdb
+C:\Users\17Miah.F\Source\Repos\f-m06\Homework\07 Credit Card Validator\obj\Debug\net6.0\07 Credit Card Validator.genruntimeconfig.cache
+C:\Users\17Miah.F\Source\Repos\f-m06\Homework\07 Credit Card Validator\obj\Debug\net6.0\ref\07 Credit Card Validator.dll
