@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\A Level\\Computer Science\\C#\\GitHub\\Homework\\05 Fruit Machine\\05 Fruit Machine.csproj": {}
+    "C:\\Users\\17Miah.F\\source\\repos\\f-m06\\Homework\\05 Fruit Machine\\05 Fruit Machine.csproj": {}
   },
   "projects": {
-    "D:\\A Level\\Computer Science\\C#\\GitHub\\Homework\\05 Fruit Machine\\05 Fruit Machine.csproj": {
+    "C:\\Users\\17Miah.F\\source\\repos\\f-m06\\Homework\\05 Fruit Machine\\05 Fruit Machine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\A Level\\Computer Science\\C#\\GitHub\\Homework\\05 Fruit Machine\\05 Fruit Machine.csproj",
+        "projectUniqueName": "C:\\Users\\17Miah.F\\source\\repos\\f-m06\\Homework\\05 Fruit Machine\\05 Fruit Machine.csproj",
         "projectName": "05 Fruit Machine",
-        "projectPath": "D:\\A Level\\Computer Science\\C#\\GitHub\\Homework\\05 Fruit Machine\\05 Fruit Machine.csproj",
-        "packagesPath": "C:\\Users\\habib\\.nuget\\packages\\",
-        "outputPath": "D:\\A Level\\Computer Science\\C#\\GitHub\\Homework\\05 Fruit Machine\\obj\\",
+        "projectPath": "C:\\Users\\17Miah.F\\source\\repos\\f-m06\\Homework\\05 Fruit Machine\\05 Fruit Machine.csproj",
+        "packagesPath": "C:\\Users\\17Miah.F\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\17Miah.F\\source\\repos\\f-m06\\Homework\\05 Fruit Machine\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\habib\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\17Miah.F\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
