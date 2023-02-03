@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\17Miah.F\\source\\repos\\f-m06\\Homework\\06 Unit Converter\\06 Unit Converter.csproj": {}
+    "C:\\Users\\habib\\source\\repos\\f-m06\\Homework\\06 Unit Converter\\06 Unit Converter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\17Miah.F\\source\\repos\\f-m06\\Homework\\06 Unit Converter\\06 Unit Converter.csproj": {
+    "C:\\Users\\habib\\source\\repos\\f-m06\\Homework\\06 Unit Converter\\06 Unit Converter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\17Miah.F\\source\\repos\\f-m06\\Homework\\06 Unit Converter\\06 Unit Converter.csproj",
+        "projectUniqueName": "C:\\Users\\habib\\source\\repos\\f-m06\\Homework\\06 Unit Converter\\06 Unit Converter.csproj",
         "projectName": "06 Unit Converter",
-        "projectPath": "C:\\Users\\17Miah.F\\source\\repos\\f-m06\\Homework\\06 Unit Converter\\06 Unit Converter.csproj",
-        "packagesPath": "C:\\Users\\17Miah.F\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\17Miah.F\\source\\repos\\f-m06\\Homework\\06 Unit Converter\\obj\\",
+        "projectPath": "C:\\Users\\habib\\source\\repos\\f-m06\\Homework\\06 Unit Converter\\06 Unit Converter.csproj",
+        "packagesPath": "C:\\Users\\habib\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\habib\\source\\repos\\f-m06\\Homework\\06 Unit Converter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\17Miah.F\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\habib\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
