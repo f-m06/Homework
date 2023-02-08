@@ -15,33 +15,33 @@ namespace LogicGate
                     {
                         Output = 1;
                     }
-                    return $"Input 1 = {Number1}\nInput 2 = {Number2}\n Output = {Output}\n~~~~~~~~~~";
+                    return $"Input 1 = {Number1}\nInput 2 = {Number2}\nOutput = {Output}\n~~~~~~~~~~";
                 case "AND":
                     if (Number1 == 1 && Number2 == 1)
                     {
                         Output = 1;
                     }
-                    return $"Input 1 = {Number1}\nInput 2 = {Number2}\n Output = {Output}\n~~~~~~~~~~";
+                    return $"Input 1 = {Number1}\nInput 2 = {Number2}\nOutput = {Output}\n~~~~~~~~~~";
                 case "XOR":
                     if ((Number1 == 1 && Number2 == 1) || (Number1 == 0 && Number2 == 1))
                     {
                         Output = 1;
                     }
-                    return $"Input 1 = {Number1}\nInput 2 = {Number2}\n Output = {Output}\n~~~~~~~~~~";
+                    return $"Input 1 = {Number1}\nInput 2 = {Number2}\nOutput = {Output}\n~~~~~~~~~~";
                 case "NAND":
                     if (Number1 == 0 || Number2 == 0)
                     {
                         Output = 1;
                     }
-                    return $"Input 1 = {Number1}\nInput 2 = {Number2}\n Output = {Output}\n~~~~~~~~~~";
+                    return $"Input 1 = {Number1}\nInput 2 = {Number2}\nOutput = {Output}\n~~~~~~~~~~";
                 case "NOR":
                     if (Number1 == 0 || Number2 == 0)
                     {
                         Output = 1;
                     }
-                    return $"Input 1 = {Number1}\nInput 2 = {Number2}\n Output = {Output}\n~~~~~~~~~~";
+                    return $"Input 1 = {Number1}\nInput 2 = {Number2}\nOutput = {Output}\n~~~~~~~~~~";
                 default:
-                    return null;
+                    return "Error";
             }
         }
         static void Main(String[] args)
@@ -68,8 +68,7 @@ namespace LogicGate
                 Input2 = Int32.Parse(Console.ReadLine());
             }
             Console.WriteLine("~~~~~~~~~~");
-            Logic(LogicGateInput, Input1, Input2);
+            Console.WriteLine(Logic(LogicGateInput, Input1, Input2));
         }
-
     }
 }
