@@ -1,0 +1,15 @@
+C:\Users\17Miah.F\Source\Repos\f-m06\Homework\19 Logic Gate\bin\Debug\net6.0\19 Logic Gate.exe
+C:\Users\17Miah.F\Source\Repos\f-m06\Homework\19 Logic Gate\bin\Debug\net6.0\19 Logic Gate.deps.json
+C:\Users\17Miah.F\Source\Repos\f-m06\Homework\19 Logic Gate\bin\Debug\net6.0\19 Logic Gate.runtimeconfig.json
+C:\Users\17Miah.F\Source\Repos\f-m06\Homework\19 Logic Gate\bin\Debug\net6.0\19 Logic Gate.dll
+C:\Users\17Miah.F\Source\Repos\f-m06\Homework\19 Logic Gate\bin\Debug\net6.0\19 Logic Gate.pdb
+C:\Users\17Miah.F\Source\Repos\f-m06\Homework\19 Logic Gate\obj\Debug\net6.0\19 Logic Gate.csproj.AssemblyReference.cache
+C:\Users\17Miah.F\Source\Repos\f-m06\Homework\19 Logic Gate\obj\Debug\net6.0\19 Logic Gate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17Miah.F\Source\Repos\f-m06\Homework\19 Logic Gate\obj\Debug\net6.0\19 Logic Gate.AssemblyInfoInputs.cache
+C:\Users\17Miah.F\Source\Repos\f-m06\Homework\19 Logic Gate\obj\Debug\net6.0\19 Logic Gate.AssemblyInfo.cs
+C:\Users\17Miah.F\Source\Repos\f-m06\Homework\19 Logic Gate\obj\Debug\net6.0\19 Logic Gate.csproj.CoreCompileInputs.cache
+C:\Users\17Miah.F\Source\Repos\f-m06\Homework\19 Logic Gate\obj\Debug\net6.0\19 Logic Gate.dll
+C:\Users\17Miah.F\Source\Repos\f-m06\Homework\19 Logic Gate\obj\Debug\net6.0\refint\19 Logic Gate.dll
+C:\Users\17Miah.F\Source\Repos\f-m06\Homework\19 Logic Gate\obj\Debug\net6.0\19 Logic Gate.pdb
+C:\Users\17Miah.F\Source\Repos\f-m06\Homework\19 Logic Gate\obj\Debug\net6.0\19 Logic Gate.genruntimeconfig.cache
+C:\Users\17Miah.F\Source\Repos\f-m06\Homework\19 Logic Gate\obj\Debug\net6.0\ref\19 Logic Gate.dll
