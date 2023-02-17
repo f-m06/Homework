@@ -1,0 +1,15 @@
+C:\Users\habib\Source\Repos\f-m06\Homework\18 Years in a Range\bin\Debug\net6.0\18 Years in a Range.exe
+C:\Users\habib\Source\Repos\f-m06\Homework\18 Years in a Range\bin\Debug\net6.0\18 Years in a Range.deps.json
+C:\Users\habib\Source\Repos\f-m06\Homework\18 Years in a Range\bin\Debug\net6.0\18 Years in a Range.runtimeconfig.json
+C:\Users\habib\Source\Repos\f-m06\Homework\18 Years in a Range\bin\Debug\net6.0\18 Years in a Range.dll
+C:\Users\habib\Source\Repos\f-m06\Homework\18 Years in a Range\bin\Debug\net6.0\18 Years in a Range.pdb
+C:\Users\habib\Source\Repos\f-m06\Homework\18 Years in a Range\obj\Debug\net6.0\18 Years in a Range.csproj.AssemblyReference.cache
+C:\Users\habib\Source\Repos\f-m06\Homework\18 Years in a Range\obj\Debug\net6.0\18 Years in a Range.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\habib\Source\Repos\f-m06\Homework\18 Years in a Range\obj\Debug\net6.0\18 Years in a Range.AssemblyInfoInputs.cache
+C:\Users\habib\Source\Repos\f-m06\Homework\18 Years in a Range\obj\Debug\net6.0\18 Years in a Range.AssemblyInfo.cs
+C:\Users\habib\Source\Repos\f-m06\Homework\18 Years in a Range\obj\Debug\net6.0\18 Years in a Range.csproj.CoreCompileInputs.cache
+C:\Users\habib\Source\Repos\f-m06\Homework\18 Years in a Range\obj\Debug\net6.0\18 Years in a Range.dll
+C:\Users\habib\Source\Repos\f-m06\Homework\18 Years in a Range\obj\Debug\net6.0\refint\18 Years in a Range.dll
+C:\Users\habib\Source\Repos\f-m06\Homework\18 Years in a Range\obj\Debug\net6.0\18 Years in a Range.pdb
+C:\Users\habib\Source\Repos\f-m06\Homework\18 Years in a Range\obj\Debug\net6.0\18 Years in a Range.genruntimeconfig.cache
+C:\Users\habib\Source\Repos\f-m06\Homework\18 Years in a Range\obj\Debug\net6.0\ref\18 Years in a Range.dll
