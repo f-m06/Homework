@@ -1,0 +1,15 @@
+C:\Users\17Miah.F\Source\Repos\f-m06\Homework\63 I Like Pi\bin\Debug\net6.0\63 I Like Pi.exe
+C:\Users\17Miah.F\Source\Repos\f-m06\Homework\63 I Like Pi\bin\Debug\net6.0\63 I Like Pi.deps.json
+C:\Users\17Miah.F\Source\Repos\f-m06\Homework\63 I Like Pi\bin\Debug\net6.0\63 I Like Pi.runtimeconfig.json
+C:\Users\17Miah.F\Source\Repos\f-m06\Homework\63 I Like Pi\bin\Debug\net6.0\63 I Like Pi.dll
+C:\Users\17Miah.F\Source\Repos\f-m06\Homework\63 I Like Pi\bin\Debug\net6.0\63 I Like Pi.pdb
+C:\Users\17Miah.F\Source\Repos\f-m06\Homework\63 I Like Pi\obj\Debug\net6.0\63 I Like Pi.csproj.AssemblyReference.cache
+C:\Users\17Miah.F\Source\Repos\f-m06\Homework\63 I Like Pi\obj\Debug\net6.0\63 I Like Pi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17Miah.F\Source\Repos\f-m06\Homework\63 I Like Pi\obj\Debug\net6.0\63 I Like Pi.AssemblyInfoInputs.cache
+C:\Users\17Miah.F\Source\Repos\f-m06\Homework\63 I Like Pi\obj\Debug\net6.0\63 I Like Pi.AssemblyInfo.cs
+C:\Users\17Miah.F\Source\Repos\f-m06\Homework\63 I Like Pi\obj\Debug\net6.0\63 I Like Pi.csproj.CoreCompileInputs.cache
+C:\Users\17Miah.F\Source\Repos\f-m06\Homework\63 I Like Pi\obj\Debug\net6.0\63 I Like Pi.dll
+C:\Users\17Miah.F\Source\Repos\f-m06\Homework\63 I Like Pi\obj\Debug\net6.0\refint\63 I Like Pi.dll
+C:\Users\17Miah.F\Source\Repos\f-m06\Homework\63 I Like Pi\obj\Debug\net6.0\63 I Like Pi.pdb
+C:\Users\17Miah.F\Source\Repos\f-m06\Homework\63 I Like Pi\obj\Debug\net6.0\63 I Like Pi.genruntimeconfig.cache
+C:\Users\17Miah.F\Source\Repos\f-m06\Homework\63 I Like Pi\obj\Debug\net6.0\ref\63 I Like Pi.dll
